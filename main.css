@@ -15,7 +15,7 @@ header {
 }
 
 .hero {
-    background-image: url('hero-image.jpg');
+    background-image: url('https://images.pexels.com/photos/531880/pexels-photo-531880.jpeg?auto=compress&cs=tinysrgb&w=600');
     background-size: cover;
     background-position: center;
     height: 500px;
@@ -23,7 +23,7 @@ header {
 
 .hero-content {
     text-align: center;
-    color: #fff;
+    color: #1e1e1e;
     padding: 50px;
 }
 
